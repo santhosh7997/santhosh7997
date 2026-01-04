@@ -23,8 +23,8 @@ I'm [Your Name], a [your profession/role, e.g., Software Developer] passionate a
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=santhosh7997&theme=radical&hide_border=true&background=0d1117&stroke=6ee7b7&ring=6ee7b7&fire=6ee7b7&currStreakLabel=6ee7b7)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 ## 📫 **Connect with Me**
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/yourprofile]
+- 📧 Email: santhos799750h@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/santosh-kanne-73aa42258
 - 🐦 Twitter/X: [@yourhandle](https://x.com/yourhandle)
 - 🌐 Website: [yourwebsite.com]
 
