@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-I'm [Your Name], a [your profession/role, e.g., Software Developer] passionate about [your interests, e.g., web development, AI, and open-source projects]. Currently [your current role or focus, e.g., freelancing or learning new tech stacks].
+I'm santhosh, a Associate Software Developer passionate about [your interests, e.g., web development, AI, and open-source projects]. Currently [your current role or focus, e.g., freelancing or learning new tech stacks].
 
 <!-- GitHub Stats Card -->
 [![Santhosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=santhosh7997&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6ee7b7&icon_color=6ee7b7)](https://github.com/anuraghazra/github-readme-stats)
